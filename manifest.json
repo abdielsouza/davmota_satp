@@ -1,6 +1,6 @@
 {
-    "name": "src",
-    "short_name": "src",
+    "name": "davmota_satp",
+    "short_name": "davmota_satp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
